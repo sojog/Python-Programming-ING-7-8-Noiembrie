@@ -7,8 +7,7 @@
 # 7. Selectați rândurile în care țara este „Anglia”.
 # 8. Afișează rândurile în care „trofeele” sunt mai mari decât 2.
 # 9. Accesați coloanele „echipă” și „țară” pentru primele 10 rânduri.
-# 10. Selectați ultimele 5 rânduri ale DataFra
-# me.
+# 10. Selectați ultimele 5 rânduri ale DataFrame.
 # 11. Filtrați echipele din „Spania” și afișați-le datele.
 # 12. Găsiți toate echipele care au câștigat exact 2 trofee.
 # 13. Filtrați echipele în care țara este fie „Anglia”, fie „Italia”.
